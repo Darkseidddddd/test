@@ -1,5 +1,2 @@
 hello world
 HELLO
-Hi
-ok
-2
